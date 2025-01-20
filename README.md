@@ -18,7 +18,7 @@ ____
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/async-transcription-tool.git
+git clone https://github.com/voidshaman/mp4toText.git
 cd mp4toText
 ```
 
