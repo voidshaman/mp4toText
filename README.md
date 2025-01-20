@@ -19,7 +19,7 @@ ____
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/async-transcription-tool.git
-cd async-transcription-tool
+cd mp4toText
 ```
 
 ### Install Dependencies
